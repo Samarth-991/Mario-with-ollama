@@ -1,0 +1,14 @@
+# Core game + agent (mario_game.py, mario_vlm.py)
+pygame>=2.6.1
+numpy>=2.0
+
+# OpenRouter VLM backend (default for perception in mario_vlm.py)
+openrouter>=1.3
+
+# Optional: run notebooks/01_mario2gemma.ipynb
+ipykernel>=7.0
+jupyter-client>=8.0
+
+# Nimble decision model is NOT a pip package — install via Ollama:
+#   ollama pull nimble:latest
+#   ollama serve
