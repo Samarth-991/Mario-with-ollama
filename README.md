@@ -2,7 +2,7 @@
 
 A mini Super Mario–style platformer in Python and Pygame, plus an optional **vision agent** that watches the game window and plays (or advises) using a **two-model stack**: a vision-language model (VLM) for perception and **Nimble** for fast, typed decisions.
 
-![Gameplay screenshot](notebooks/frames/t1.png)
+![Gameplay screenshot](https://github.com/Samarth-991/Mario-with-ollama/blob/main/t1.png)
 
 ---
 
